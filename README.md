@@ -4,7 +4,7 @@
 
 ### Programming Languages/Utility Frameworks I Use:
 
-[![My Languages](https://skillicons.dev/icons?i=next,tailwind,react,ts,html,css,js,cs,lua)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=next,tailwind,react,ts,html,css,js,py,cs,lua)](https://skillicons.dev)
 
 ### Tools/Programs:
 
