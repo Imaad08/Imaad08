@@ -4,25 +4,25 @@
 
 ### Programming Languages/Utility Frameworks I Use:
 
-[![My Languages](https://skillicons.dev/icons?i=next,tailwind,react,ts,html,css,js,py,cs,lua)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=next,tailwind,react,ts,html,css,js,py,cs,lua)](https://skillicons.dev)
 
 - Next Js, Tailwind CSS, React, TypeScript, HTML, CSS, JavaScript, Python, C#, Lua
 
 ### Tools/Programs:
 
-[![My Skills2](https://skillicons.dev/icons?i=vscode,blender,github,git,docker,ps,unity,vercel)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=vscode,blender,github,git,docker,ps,unity,vercel)](https://skillicons.dev)
 
 - VsCode, Blender, Github, Git, Docker, Photoshop, Unity, Vercel
 
 ### Backend Programs:
 
-[![My Skills3](https://skillicons.dev/icons?i=next,nodejs)](https://skillicons.dev)
+[![backend](https://skillicons.dev/icons?i=next,nodejs)](https://skillicons.dev)
 
 - Next Js, Node Js
 
 ## Interested in Learning:
 
-[![My Skills3](https://skillicons.dev/icons?i=swift,linux,bash)](https://skillicons.dev)
+[![interests](https://skillicons.dev/icons?i=swift,linux,bash)](https://skillicons.dev)
 
 - Swift, Linux, Bash
 
