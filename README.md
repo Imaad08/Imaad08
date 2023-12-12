@@ -1,16 +1,29 @@
-### Hi there 👋
+![stats](https://github-readme-stats.vercel.app/api?username=Imaad08&theme=transparent&show_icons=true)
 
-<!--
-**Imaad08/Imaad08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Skils:
 
-Here are some ideas to get you started:
+### Programming Languages/Utility Frameworks I Use:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Languages](https://skillicons.dev/icons?i=next,tailwind,react,ts,html,css,js,cs,lua)](https://skillicons.dev)
+
+### Tools/Programs:
+
+[![My Skills2](https://skillicons.dev/icons?i=vscode,blender,github,git,docker,ps,unity,vercel)](https://skillicons.dev)
+
+### Backend Programs:
+
+[![My Skills3](https://skillicons.dev/icons?i=next,nodejs)](https://skillicons.dev)
+
+
+## Interested in Learning:
+
+[![My Skills3](https://skillicons.dev/icons?i=swift,linux,bash)](https://skillicons.dev)
+
+
+# Interests 
+
+- Full Stack Web Development
+- Robotics
+- Artificial Intelligence and Machine Learning
+- Mobile App Development
+- Using Programming to Create Real World Impacts
