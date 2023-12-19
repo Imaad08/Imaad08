@@ -1,5 +1,5 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=Imaad08&theme=transparent&show_icons=true)
-[![langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Imaad08&theme=transparent)]
+
 ## My Skils:
 
 ### Programming Languages/Utility Frameworks I Use:
