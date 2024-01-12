@@ -1,5 +1,5 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=Imaad08&theme=react&show_icons=true)
-![langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Imaad08&hide=jupyter%20notebook,scss,makefile,shaderlab,dockerfile,python,html,shell&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
+![langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Imaad08&hide=jupyter%20notebook,scss,makefile,shaderlab,dockerfile,python,shell&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
 ## My Skills:
 
 ### Programming Languages/Utility Frameworks I Use:
