@@ -16,13 +16,13 @@
 
 ### Backend Programs:
 
-[![backend](https://skillicons.dev/icons?i=next,nodejs)](https://skillicons.dev)
+[![backend](https://skillicons.dev/icons?i=next,nodejs,mongodb)](https://skillicons.dev)
 
-- Next Js, Node Js
+- Next Js, Node Js, Mongo DB
 
 ## Interested in Learning:
 
-[![interests](https://skillicons.dev/icons?i=swift,linux,bash)](https://skillicons.dev)
+[![interests](https://skillicons.dev/icons?i=swift,linux,bashm)](https://skillicons.dev)
 
 - Swift, Linux, Bash
 
